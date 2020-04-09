@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Katalog Filmku</string>
+    <string name="movie_title">Judul Film</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. </string>
+    <string name="tab_movie">Film</string>
+    <string name="tab_tv">Tayangan TV </string>
+    <string name="tab_favorite_movie">Film</string>
+    <string name="tab_favorite_tv">Tv</string>
+
+
+    <string name="picture_of_the_movie">Gambar Film</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="change_language_settings">Ubah Pengaturan Bahasa</string>
+    <string name="lorem_ipsum_sit_dolor_amet">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <string name="search_hint">Masukkan kata</string>
+    <string name="tambahkan_ke_daftar_favorit">Tambahkan ke daftar favorit</string>
+    <string name="hapus_dari_favorite">Hapus dari favorite</string>
+    <string name="cari">Cari</string>
+    <string name="appwidget_text">Film Favorite</string>
+    <string name="empty_text">Tidak ada data</string>
+    <string name="pengingat">Pengingat</string>
+    <string name="Release_Reminder">Mengingatkan setiap hari pukul 8 pagi seputar film yang dirilis pada hari tersebut</string>
+    <string name="Release_Reminder_title">Pengingat Rilis Film</string>
+    <string name="Daily_Reminder">Pengingat Harian</string>
+    <string name="Daily_Reminder_item">Pengingat untuk kembali ke aplikasi</string>
+</resources>
